@@ -1,0 +1,2 @@
+this is word，firsh git 
+git study
